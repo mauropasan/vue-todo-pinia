@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "title": "Primera cosa",
+      "done": false,
+      "id": 1
+    },
+    {
+      "title": "Segona cosa",
+      "done": false,
+      "id": 2
+    },
+    {
+      "title": "Tercera cosa",
+      "done": false,
+      "id": 3
+    }
+  ]
+}
